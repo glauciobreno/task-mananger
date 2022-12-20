@@ -1,4 +1,4 @@
-# Controle de Notas
+# Gerenciador de tarefas - Task Mananger
 CRUD feito com JSF, JPA, Hibernate e Primeface
 
 Trata-se de uma aplicação web para gerenciar tarefas.
