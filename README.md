@@ -7,7 +7,7 @@ para cada tarefa deve ser informado titulo, descrição, responsavel, prioridade
 
 ## Itens cumpridos
 Dado os itens pedidos no edital, além de usar JSF (A) e PostgreSql (B) em um banco de dados (obrigatório), o projeto conta com o uso
-do Hibernate e do JPA (C), para a persistência no banco de dados Postgre. Como parte visual, foi utilizado os componentes do Primefaces (G).
+do Hibernate e do JPA (C), para a persistência no banco de dados Postgre. Como parte visual, foi utilizado os componentes do Primefaces (D).
 
 
 ## Para executar o projeto
