@@ -2,12 +2,12 @@
 CRUD feito com JSF, JPA, Hibernate e Primefaces
 
 Trata-se de uma aplicação web para gerenciar tarefas.
-Ao entrar na página, é mostrado uma tabela com todas as tarefas, um formulário para pesquisa a opção de editar/excluir tarefas.
-para cada tarefa deve ser informado titulo, descrição, responsavel, prioridade e data.
+Ao entrar na página, é mostrado uma tabela com todas as tarefas, um formulário para pesquisa e a opção de editar/excluir tarefas.
+para cada tarefa deve ser informado título, descrição, responsável, prioridade e data.
 
 ## Itens cumpridos
-Dado os itens pedidos no edital, além de usar JSF (A) e PostgreSql (B) (banco de dados - obrigatório), o projeto conta com o uso
-do Hibernate e do JPA (C), para a persistência no banco de dados Postgre. Como parte visual, foi utilizado os componentes do Primefaces (D).
+Dado os itens que foram pedidos no edital, além de usar JSF (A) e PostgreSql (B) (banco de dados - obrigatório), o projeto conta com o uso
+do Hibernate e do JPA (C) para a persistência no banco de dados Postgre. Como parte visual, foi utilizado os componentes do Primefaces (D).
 
 
 ## Para executar o projeto
